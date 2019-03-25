@@ -35,4 +35,4 @@ if __name__ == '__main__':
         'Shira': (92, 87),
         'Rony': (92, 98) }
 
-    print(compare_subjects_within_student(math_grades, history_grades))
+    compare_subjects_within_student(math_grades, history_grades)
