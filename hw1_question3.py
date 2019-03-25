@@ -34,5 +34,6 @@ if __name__ == '__main__':
         'Omri': (88, 74),
         'Shira': (92, 87),
         'Rony': (92, 98) }
-
+    
+    print('Preffered subject per student')
     compare_subjects_within_student(math_grades, history_grades)
